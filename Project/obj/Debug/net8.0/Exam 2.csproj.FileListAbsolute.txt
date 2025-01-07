@@ -1,0 +1,28 @@
+D:\.Net\Route\OOP\Exam 2\bin\Debug\net8.0\Exam 2.exe
+D:\.Net\Route\OOP\Exam 2\bin\Debug\net8.0\Exam 2.deps.json
+D:\.Net\Route\OOP\Exam 2\bin\Debug\net8.0\Exam 2.runtimeconfig.json
+D:\.Net\Route\OOP\Exam 2\bin\Debug\net8.0\Exam 2.dll
+D:\.Net\Route\OOP\Exam 2\bin\Debug\net8.0\Exam 2.pdb
+D:\.Net\Route\OOP\Exam 2\obj\Debug\net8.0\Exam 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\OOP\Exam 2\obj\Debug\net8.0\Exam 2.AssemblyInfoInputs.cache
+D:\.Net\Route\OOP\Exam 2\obj\Debug\net8.0\Exam 2.AssemblyInfo.cs
+D:\.Net\Route\OOP\Exam 2\obj\Debug\net8.0\Exam 2.csproj.CoreCompileInputs.cache
+D:\.Net\Route\OOP\Exam 2\obj\Debug\net8.0\Exam 2.dll
+D:\.Net\Route\OOP\Exam 2\obj\Debug\net8.0\refint\Exam 2.dll
+D:\.Net\Route\OOP\Exam 2\obj\Debug\net8.0\Exam 2.pdb
+D:\.Net\Route\OOP\Exam 2\obj\Debug\net8.0\Exam 2.genruntimeconfig.cache
+D:\.Net\Route\OOP\Exam 2\obj\Debug\net8.0\ref\Exam 2.dll
+D:\.Net\Route\OOP\Project\bin\Debug\net8.0\Exam 2.exe
+D:\.Net\Route\OOP\Project\bin\Debug\net8.0\Exam 2.deps.json
+D:\.Net\Route\OOP\Project\bin\Debug\net8.0\Exam 2.runtimeconfig.json
+D:\.Net\Route\OOP\Project\bin\Debug\net8.0\Exam 2.dll
+D:\.Net\Route\OOP\Project\bin\Debug\net8.0\Exam 2.pdb
+D:\.Net\Route\OOP\Project\obj\Debug\net8.0\Exam 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Route\OOP\Project\obj\Debug\net8.0\Exam 2.AssemblyInfoInputs.cache
+D:\.Net\Route\OOP\Project\obj\Debug\net8.0\Exam 2.AssemblyInfo.cs
+D:\.Net\Route\OOP\Project\obj\Debug\net8.0\Exam 2.csproj.CoreCompileInputs.cache
+D:\.Net\Route\OOP\Project\obj\Debug\net8.0\Exam 2.dll
+D:\.Net\Route\OOP\Project\obj\Debug\net8.0\refint\Exam 2.dll
+D:\.Net\Route\OOP\Project\obj\Debug\net8.0\Exam 2.pdb
+D:\.Net\Route\OOP\Project\obj\Debug\net8.0\Exam 2.genruntimeconfig.cache
+D:\.Net\Route\OOP\Project\obj\Debug\net8.0\ref\Exam 2.dll
